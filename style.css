@@ -2,3 +2,37 @@ body {
     margin-left: 10%;
     margin-right: 10%;
 }
+
+#topHeader{
+    margin-left: 25%;
+}
+
+#topHeader h1{
+    margin: 0;
+    display: inline-block;
+} 
+
+#topHeader img{
+    width: 100;
+    height: auto;
+}
+
+nav{
+    border: 3px dotted fuchsia;
+}
+
+ul nav{
+    padding: 0;
+    margin-left: 25%;
+}
+
+li nav{
+    display: inline-block; 
+    padding-right: 20;
+    font-size: 20;
+}
+
+#sectionHeader{
+    font-size:20px;
+    color:
+}
