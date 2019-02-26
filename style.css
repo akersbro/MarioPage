@@ -1,6 +1,7 @@
 body {
     margin-left: 10%;
     margin-right: 10%;
+    background-image: url"mario.jpg";
 }
 
 #topHeader{
@@ -47,4 +48,28 @@ li nav{
 aside{
     display: inline-block;
     vertical-align: top;
+}
+
+#listHeader{
+    font-size: 20 px;
+    color: violet;
+}
+
+#consoleSection{
+    border: 10px outset gray;
+    margin: 5px; 
+    padding: 10px;
+}
+
+#consoleSection li{
+    padding: 5px;
+}
+
+section{
+    background-color: indianred
+}
+
+article{
+    background-color: cornflowerblue;
+    border: 4px groove fuchsia;
 }
