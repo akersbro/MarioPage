@@ -33,6 +33,18 @@ li nav{
 }
 
 #sectionHeader{
-    font-size:20px;
-    color:
+    font-size: 20px;
+    color: blueviolet;
+    font-family: 'Arvo', serif;
+    text-shadow: 2px 3px 1px black;
+}
+
+#articleHeader{
+    font-size: 18px; 
+    color: mediumspringgreen;
+}
+
+aside{
+    display: inline-block;
+    vertical-align: top;
 }
